@@ -1,6 +1,5 @@
 # EDA-on-Uber-Drivers
 
-
 The "EDA on Uber Drivers" project is a comprehensive exploration of Uber ride data, focusing on key features such as START_DATE, END_DATE, CATEGORY, START location, STOP location, MILES travelled, PURPOSE of the trip, and MONTH of the ride. Through an extensive EDA process, the data has been meticulously cleaned and analyzed to extract valuable insights.
 
 This project involves a thorough examination of Uber ride patterns, utilizing statistical methods and visualization techniques. The data has been visualized using the Seaborn library and Matplotlib, enabling a clear representation of trends, correlations, and patterns within the dataset.
